@@ -1,0 +1,13 @@
+Package: Project3Package
+Title: Demonstration Package for STAT302
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sofia",
+           family = "Chen",
+           role = c("aut", "cre"),
+           email = "chenxr@uw.edu")
+Description: This package is about how to build a package for STAT302.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
