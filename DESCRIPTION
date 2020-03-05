@@ -7,6 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "chenxr@uw.edu")
 Description: This package is about how to build a package for STAT302.
+Depends: R (>= 3.2)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
