@@ -24,3 +24,4 @@ my_pow(4)
 my_pow(4, power = 3)
 
 }
+\keyword{p-value}

@@ -5,6 +5,7 @@
 #' @param x Numeric input to be raised to the power of the \code{power}.
 #' @param power Numeric input for power that \code{x} will be raised to,
 #'   default to \code{2}.
+#' @keywords p-value
 #'
 #' @return Numeric representing \code{x} raised to the power of
 #'   \code{power}.
